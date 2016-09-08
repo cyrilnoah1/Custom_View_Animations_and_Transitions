@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Day28</string>
+    <string name="insert_text_here">Insert text here</string>
+    <string name="insert">Insert</string>
+    <string name="clear_textviews">Clear TextViews</string>
+    <string name="goto_activity2"><![CDATA[>]]></string>
+    <string name="card_animator">Card Animator</string>
+    <string name="cardview_animation">CardView</string>
+    <string name="infinite">Infinite</string>
+</resources>
